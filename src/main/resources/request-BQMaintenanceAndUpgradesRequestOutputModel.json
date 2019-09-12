@@ -1,0 +1,15 @@
+{
+  "maintenanceAndUpgradesInstanceRecord" : {
+    "vChannelMaintenanceandUpgradeSchedule" : {
+      "vChannelMaintenanceandUpgradeWorkTaskWorkProducts" : "vChannelMaintenanceandUpgradeWorkTaskWorkProducts",
+      "vChannelMaintenanceandUpgradeWorkTaskDateTime" : "09-22-2018",
+      "vChannelMaintenanceandUpgradeWorkTask" : "vChannelMaintenanceandUpgradeWorkTask",
+      "vChannelMaintenanceandUpgradeWorkTaskType" : "vChannelMaintenanceandUpgradeWorkTaskType",
+      "vChannelMaintenanceandUpgradeWorkTaskResult" : "vChannelMaintenanceandUpgradeWorkTaskResult"
+    }
+  },
+  "maintenanceAndUpgradesRequestActionTaskReference" : "MAURATR798858",
+  "maintenanceAndUpgradesRequestRecordReference" : "MAURRR741375",
+  "maintenanceAndUpgradesRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

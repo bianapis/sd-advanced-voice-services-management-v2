@@ -1,0 +1,22 @@
+{
+  "voiceChannelManagementPlanRetrieveActionTaskReference" : "VCMPRATR796303",
+  "voiceChannelManagementPlanRetrieveActionResponse" : "voiceChannelManagementPlanRetrieveActionResponse",
+  "voiceChannelManagementPlanInstanceReportRecord" : {
+    "voiceChannelManagementPlanInstanceReportType" : "voiceChannelManagementPlanInstanceReportType",
+    "voiceChannelManagementPlanInstanceReport" : {},
+    "voiceChannelManagementPlanInstanceReportData" : "voiceChannelManagementPlanInstanceReportData"
+  },
+  "voiceChannelManagementPlanInstanceAnalysis" : {
+    "voiceChannelManagementPlanInstanceAnalysisData" : "voiceChannelManagementPlanInstanceAnalysisData",
+    "voiceChannelManagementPlanInstanceAnalysisReportType" : "voiceChannelManagementPlanInstanceAnalysisReportType",
+    "voiceChannelManagementPlanInstanceAnalysisReport" : {}
+  },
+  "voiceChannelManagementPlanInstanceRecord" : {
+    "vChannelUsagePoliciesAndGuidelines" : "vChannelUsagePoliciesAndGuidelines",
+    "vChannelServiceSchedule" : "vChannelServiceSchedule",
+    "vChannelServiceOperatingParameters" : "vChannelServiceOperatingParameters",
+    "vChannelServicePerformanceGoals" : "vChannelServicePerformanceGoals",
+    "vChannelManagementPlanPeriod" : "vChannelManagementPlanPeriod"
+  },
+  "voiceChannelManagementPlanRetrieveActionTaskRecord" : {}
+}

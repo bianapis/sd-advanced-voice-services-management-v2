@@ -1,0 +1,9 @@
+{
+  "troubleshootingInstanceRecord" : {
+    "vChannelIssueAnalysisAndRecommendedResponse" : "vChannelIssueAnalysisAndRecommendedResponse",
+    "vChannelProductionIssueRecord" : {}
+  },
+  "troubleshootingUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "troubleshootingUpdateActionTaskReference" : "TUATR798730"
+}

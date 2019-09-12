@@ -1,0 +1,10 @@
+{
+  "troubleshootingRequestRecordReference" : "TRRR759318",
+  "troubleshootingInstanceRecord" : {
+    "vChannelIssueAnalysisAndRecommendedResponse" : "vChannelIssueAnalysisAndRecommendedResponse",
+    "vChannelProductionIssueRecord" : {}
+  },
+  "troubleshootingRequestActionTaskRecord" : {},
+  "troubleshootingRequestActionTaskReference" : "TRATR767642",
+  "requestResponseRecord" : {}
+}

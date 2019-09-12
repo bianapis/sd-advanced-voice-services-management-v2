@@ -1,0 +1,10 @@
+{
+  "capacityPlanningRequestRecordReference" : "CPRRR770553",
+  "capacityPlanningInstanceRecord" : {
+    "vChannelLoadingProjections" : "vChannelLoadingProjections",
+    "vChannelPlatformUtilization" : "vChannelPlatformUtilization"
+  },
+  "capacityPlanningRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "capacityPlanningRequestActionTaskReference" : "CPRATR719587"
+}

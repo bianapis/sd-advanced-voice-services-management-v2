@@ -1,0 +1,26 @@
+{
+  "maintenanceAndUpgradesInstanceRecord" : {
+    "vChannelMaintenanceandUpgradeSchedule" : {
+      "vChannelMaintenanceandUpgradeWorkTaskWorkProducts" : "vChannelMaintenanceandUpgradeWorkTaskWorkProducts",
+      "vChannelMaintenanceandUpgradeWorkTaskDateTime" : "09-22-2018",
+      "vChannelMaintenanceandUpgradeWorkTask" : "vChannelMaintenanceandUpgradeWorkTask",
+      "vChannelMaintenanceandUpgradeWorkTaskType" : "vChannelMaintenanceandUpgradeWorkTaskType",
+      "vChannelMaintenanceandUpgradeWorkTaskResult" : "vChannelMaintenanceandUpgradeWorkTaskResult"
+    }
+  },
+  "maintenanceAndUpgradesInstanceReport" : {
+    "maintenanceAndUpgradesInstanceReport" : {},
+    "maintenanceAndUpgradesInstanceReportType" : "maintenanceAndUpgradesInstanceReportType",
+    "maintenanceAndUpgradesInstanceReportRecord" : {},
+    "maintenanceAndUpgradesInstanceReportParameters" : "maintenanceAndUpgradesInstanceReportParameters"
+  },
+  "maintenanceAndUpgradesRetrieveActionTaskRecord" : {},
+  "maintenanceAndUpgradesInstanceAnalysis" : {
+    "maintenanceAndUpgradesInstanceAnalysisReport" : {},
+    "maintenanceAndUpgradesInstanceAnalysisParameters" : "maintenanceAndUpgradesInstanceAnalysisParameters",
+    "maintenanceAndUpgradesInstanceAnalysisRecord" : {},
+    "maintenanceAndUpgradesInstanceAnalysisReportType" : "maintenanceAndUpgradesInstanceAnalysisReportType"
+  },
+  "maintenanceAndUpgradesRetrieveActionResponse" : "maintenanceAndUpgradesRetrieveActionResponse",
+  "maintenanceAndUpgradesRetrieveActionTaskReference" : "MAURATR707485"
+}

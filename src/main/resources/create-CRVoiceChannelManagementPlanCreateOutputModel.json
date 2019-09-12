@@ -1,0 +1,13 @@
+{
+  "voiceChannelManagementPlanInstanceStatus" : "voiceChannelManagementPlanInstanceStatus",
+  "voiceChannelManagementPlanCreateActionReference" : "VCMPCAR769522",
+  "voiceChannelManagementPlanInstanceReference" : "VCMPIR745882",
+  "voiceChannelManagementPlanCreateActionRecord" : {},
+  "voiceChannelManagementPlanInstanceRecord" : {
+    "vChannelUsagePoliciesAndGuidelines" : "vChannelUsagePoliciesAndGuidelines",
+    "vChannelServiceSchedule" : "vChannelServiceSchedule",
+    "vChannelServiceOperatingParameters" : "vChannelServiceOperatingParameters",
+    "vChannelServicePerformanceGoals" : "vChannelServicePerformanceGoals",
+    "vChannelManagementPlanPeriod" : "vChannelManagementPlanPeriod"
+  }
+}

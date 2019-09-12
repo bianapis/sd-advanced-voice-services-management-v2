@@ -1,0 +1,28 @@
+{
+  "capacityPlanningInstanceRecord" : {
+    "vChannelLoadingProjections" : "vChannelLoadingProjections",
+    "vChannelPlatformUtilization" : "vChannelPlatformUtilization"
+  },
+  "capacityPlanningInstanceReport" : {
+    "capacityPlanningInstanceReport" : {},
+    "capacityPlanningInstanceReportRecord" : {},
+    "capacityPlanningInstanceReportParameters" : "capacityPlanningInstanceReportParameters",
+    "capacityPlanningInstanceReportType" : "capacityPlanningInstanceReportType"
+  },
+  "capacityPlanningInstanceAnalysis" : {
+    "capacityPlanningInstanceAnalysisReportType" : "capacityPlanningInstanceAnalysisReportType",
+    "capacityPlanningInstanceAnalysisParameters" : "capacityPlanningInstanceAnalysisParameters",
+    "capacityPlanningInstanceAnalysisRecord" : {},
+    "capacityPlanningInstanceAnalysisReport" : {}
+  },
+  "capacityPlanningRetrieveActionResponse" : "capacityPlanningRetrieveActionResponse",
+  "capacityPlanningRetrieveActionTaskReference" : "CPRATR721409",
+  "voiceChannelManagementPlanInstanceRecord" : {
+    "vChannelUsagePoliciesAndGuidelines" : "vChannelUsagePoliciesAndGuidelines",
+    "vChannelServiceSchedule" : "vChannelServiceSchedule",
+    "vChannelServiceOperatingParameters" : "vChannelServiceOperatingParameters",
+    "vChannelServicePerformanceGoals" : "vChannelServicePerformanceGoals",
+    "vChannelManagementPlanPeriod" : "vChannelManagementPlanPeriod"
+  },
+  "capacityPlanningRetrieveActionTaskRecord" : {}
+}

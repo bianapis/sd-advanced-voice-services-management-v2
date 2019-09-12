@@ -1,0 +1,20 @@
+{
+  "maintenanceAndUpgradesInstanceRecord" : {
+    "vChannelMaintenanceandUpgradeSchedule" : {
+      "vChannelMaintenanceandUpgradeWorkTaskWorkProducts" : "vChannelMaintenanceandUpgradeWorkTaskWorkProducts",
+      "vChannelMaintenanceandUpgradeWorkTaskDateTime" : "09-22-2018",
+      "vChannelMaintenanceandUpgradeWorkTask" : "vChannelMaintenanceandUpgradeWorkTask",
+      "vChannelMaintenanceandUpgradeWorkTaskType" : "vChannelMaintenanceandUpgradeWorkTaskType",
+      "vChannelMaintenanceandUpgradeWorkTaskResult" : "vChannelMaintenanceandUpgradeWorkTaskResult"
+    }
+  },
+  "maintenanceAndUpgradesInstanceStatus" : "maintenanceAndUpgradesInstanceStatus",
+  "maintenanceAndUpgradesInitiateActionRecord" : {},
+  "maintenanceAndUpgradesInitiateActionReference" : "MAUIAR764104",
+  "maintenanceAndUpgradesInstanceReference" : "MAUIR716608",
+  "voiceChannelManagementPlanInstanceRecord" : {
+    "vChannelServiceSchedule" : "vChannelServiceSchedule",
+    "vChannelServicePerformanceGoals" : "vChannelServicePerformanceGoals",
+    "vChannelManagementPlanPeriod" : "vChannelManagementPlanPeriod"
+  }
+}

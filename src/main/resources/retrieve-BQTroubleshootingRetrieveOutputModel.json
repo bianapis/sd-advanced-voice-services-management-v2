@@ -1,0 +1,21 @@
+{
+  "troubleshootingInstanceRecord" : {
+    "vChannelIssueAnalysisAndRecommendedResponse" : "vChannelIssueAnalysisAndRecommendedResponse",
+    "vChannelProductionIssueRecord" : {}
+  },
+  "troubleshootingInstanceReport" : {
+    "troubleshootingInstanceReportParameters" : "troubleshootingInstanceReportParameters",
+    "troubleshootingInstanceReportType" : "troubleshootingInstanceReportType",
+    "troubleshootingInstanceReport" : {},
+    "troubleshootingInstanceReportRecord" : {}
+  },
+  "troubleshootingInstanceAnalysis" : {
+    "troubleshootingInstanceAnalysisParameters" : "troubleshootingInstanceAnalysisParameters",
+    "troubleshootingInstanceAnalysisReportType" : "troubleshootingInstanceAnalysisReportType",
+    "troubleshootingInstanceAnalysisReport" : {},
+    "troubleshootingInstanceAnalysisRecord" : {}
+  },
+  "troubleshootingRetrieveActionTaskReference" : "TRATR727057",
+  "troubleshootingRetrieveActionResponse" : "troubleshootingRetrieveActionResponse",
+  "troubleshootingRetrieveActionTaskRecord" : {}
+}

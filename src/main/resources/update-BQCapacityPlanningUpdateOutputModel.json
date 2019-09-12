@@ -1,0 +1,12 @@
+{
+  "capacityPlanningInstanceRecord" : {
+    "vChannelLoadingProjections" : "vChannelLoadingProjections",
+    "vChannelPlatformUtilization" : "vChannelPlatformUtilization"
+  },
+  "capacityPlanningUpdateActionTaskReference" : "CPUATR716315",
+  "capacityPlanningUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "voiceChannelManagementPlanInstanceRecord" : {
+    "vChannelServiceSchedule" : "vChannelServiceSchedule"
+  }
+}
